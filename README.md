@@ -1,4 +1,0 @@
-busyobuster
-===========
-
-sample structure only
